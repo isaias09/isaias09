@@ -3,14 +3,12 @@
 
 **isaias09/isaias09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](#)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](#)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](#)
-![Discord Shield](#)
-
 <div id="badges">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
