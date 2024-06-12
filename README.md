@@ -14,7 +14,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<div id="badges">
+
+Here are some ideas to get you started:
+
+- 🔭 I am currently working as a freelancer.
+- 🌱 I am currently learning in the keepcoding Full Stack Web BootCamp.
+- 👯 I'm looking to collaborate on new projects.
+- 🤔 I am looking for help and to help colleagues solve all kinds of problems.
+- 💬 Ask me about any programming needs.
+- 📫 How to reach me: <br>
+  <div id="badges">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,16 +43,5 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-Here are some ideas to get you started:
-
-- 🔭 I am currently working as a freelancer.
-- 🌱 I am currently learning in the keepcoding Full Stack Web BootCamp.
-- 👯 I'm looking to collaborate on new projects.
-- 🤔 I am looking for help and to help colleagues solve all kinds of problems.
-- 💬 Ask me about any programming needs.
-- 📫 How to reach me: <br>
-   <a href="#">
-    <img src="https://img.shields.io/badge/URL-blue?style=for-the-badge&logo=Word&logoColor=white" alt="Twitter Badge"/>
-  </a>
 
 
