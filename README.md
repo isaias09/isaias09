@@ -19,6 +19,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 Here are some ideas to get you started:
 
