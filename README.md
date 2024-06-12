@@ -1,7 +1,18 @@
 ## Hi there, I'm <a href="https://github.com/isaias09">Nicolas Garcia</a> 👋 👋
 
 
-**isaias09/isaias09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+
+- ⭐ Desarrollador web ⭐
+- 💻 Desarrollador Full Stack.
+
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
 <div id="badges">
   <a href="#">
@@ -30,7 +41,7 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on new projects.
 - 🤔 I am looking for help and to help colleagues solve all kinds of problems.
 - 💬 Ask me about any programming needs.
-- 📫 How to reach me: /n
+- 📫 How to reach me: <br>
    <a href="#">
     <img src="https://img.shields.io/badge/URL-blue?style=for-the-badge&logo=Word&logoColor=white" alt="Twitter Badge"/>
   </a>
