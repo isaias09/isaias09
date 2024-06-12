@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on new projects.
 - 🤔 I am looking for help and to help colleagues solve all kinds of problems.
 - 💬 Ask me about any programming needs.
-- 📫 How to reach me: <a href="#">
+- 📫 How to reach me:
+   <a href="#">
     <img src="https://img.shields.io/badge/URL-blue?style=for-the-badge&logo=Word&logoColor=white" alt="Twitter Badge"/>
   </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
