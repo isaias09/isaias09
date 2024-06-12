@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🤔 I am looking for help and to help colleagues solve all kinds of problems.
 - 💬 Ask me about any programming needs.
 - 📫 How to reach me: <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/URL-blue?style=for-the-badge&logo=Word&logoColor=white" alt="Twitter Badge"/>
   </a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
