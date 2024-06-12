@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href="https://github.com/isaias09">Nicolas Garcia</a> 👋 
 
 
-## Sobre mi
+#### About me
 
 - ⭐ Web Developer ⭐
 - 💻 Full Stack Developer.
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
